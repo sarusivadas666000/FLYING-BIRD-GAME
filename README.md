@@ -2,7 +2,6 @@ FLYING-BIRD-GAME
 
 
 
-
 About
 
 This game is a simple, yet addictive, 2D physics game developed to showcase fundamental game development principles in Unity. The core objective is to guide a character through an endless series of pillars. The game was built to demonstrate a clear understanding of C# scripting, object-oriented programming, and Unity's 2D physics system, all within the Visual Studio Code environment.
